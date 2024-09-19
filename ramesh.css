@@ -1,0 +1,14 @@
+*{
+    background-color: pink;
+}
+pre{
+    color: brown;
+}
+p{
+    color: aquamarine;
+    text-align: center;
+}
+div{
+    background-color: blue;
+    text-align: center;
+}

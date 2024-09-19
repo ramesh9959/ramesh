@@ -1,0 +1,19 @@
+  body {
+
+    background-image: url("https://png.pngtree.com/background/20230512/original/pngtree-nature-background-sunset-wallpaer-with-beautiful-flower-farms-picture-image_2503007.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  h1{
+    text-align: center;
+    color: rgb(135, 10, 10);
+    
+}
+p{
+    color: blue;
+    text-align: right;
+}
+em{
+    color: #110f0f;
+    font-size: 100%;
+}
